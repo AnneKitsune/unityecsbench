@@ -14,6 +14,7 @@ public class Bootstrap : MonoBehaviour
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
     private void Start()
     {
+        Application.targetFrameRate = 9999;
         UnityEngine.Debug.Log("Starting..");
         Stopwatch stopwatch = new Stopwatch();
         stopwatch.Start();

@@ -304,6 +304,6 @@
 -d:ENABLE_UNITY_COLLECTIONS_CHECKS
 -d:ENABLE_BURST_AOT
 -d:UNITY_TEAM_LICENSE
--i:C:/Users/jojolepro/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.burst@0.2.4-preview.24/Runtime/BurstCompileAttribute.cs
--i:C:/Users/jojolepro/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.burst@0.2.4-preview.24/Runtime/BurstCompiler.cs
+-i:C:/Users/jojolepro/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.burst@0.2.4-preview.25/Runtime/BurstCompileAttribute.cs
+-i:C:/Users/jojolepro/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.burst@0.2.4-preview.25/Runtime/BurstCompiler.cs
 -v:0
